@@ -1,6 +1,6 @@
 # Overview:
 
-Network science and cognigive science are two approaces to explaining social diffusion dynamics.
+Network science and cognitive science are two approaches to explaining social diffusion dynamics.
 
 - Network Science:
     - How individuals are connected to other individuals
@@ -34,7 +34,7 @@ dR/dt = kI(t)
 - Relatively simple
 - Deterministic
 - Overall System Dynamics
-- Homeogeneous
+- Homogeneous
 
 ## Agent-Based Models
 
